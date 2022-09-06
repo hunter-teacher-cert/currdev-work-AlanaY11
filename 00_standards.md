@@ -32,8 +32,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 # Standards
 
-### Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your   selected standards, explain how.
+###### Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your   selected standards, explain how.
 
-#### Cybersecurity (Safeguards & Response) Upper elementary and middle school 
+### Cybersecurity (Safeguards & Response) Upper elementary and middle school 
 
 ### Digital Literacy (Digital Use & Digital Citizenship)
