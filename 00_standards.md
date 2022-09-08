@@ -34,7 +34,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ###### (Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your   selected standards, explain how)
 
-### Standards
+### * Standards *
 The New York State Cybersecurity (safeguards & risks) and Digital Literacy (digital citizenship) standards are a crucial part of the computer science curriculum and both are foundational to developing ethical and responsible citizens. Although these standards are different, they can be addressed in the same lesson. They build on each other.  I generally teach lessons that address these standards and I usually start with digital literacy and then cybersecurity. For example, a lesson that I would teach would focus on the ethics of computing as what is the right and wrong (unethical) use of computing, password protection, social engineering and network security.
  
  ### Sample Tasks & Assignments
