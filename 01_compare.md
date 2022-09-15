@@ -9,11 +9,24 @@ Comparative streangths & weaknesses (That is does one cover a topic paticularly 
 Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
 
 ### *Curriculum Similiarities* 
-Both 
+Both UTeach Computer Science and CS Matters focus on the Collge Board's Computer Science Principles (CSP) curriculum framework. They both cover the same big idea, topics, and units. A 
 
 
-## Curriculum DIfferences
-### U Teach Computer Science 
+## *Curriculum DIfferences*
+### *U Teach Computer Science* 
 The U Teach Computer Science is a curriculum that addresses the College Board's AP Computer Science Principles Framework.  
+The curriculum is very light on details
+There are no example activities
+It is not student-focused and does not 
+Curriculum is project-based but the projects do not seem as engaging and student-focused.
 
-### CS Matters.Org 👏🏾 💥 🔥 💝
+### *CS Matters.Org* 👏🏾 💥 🔥 💝
+Sample assignments
+Accessible
+More detailed
+Includes unplugged activities
+More student-interest focused
+The projects are thematically focused on students' interest andn how to use CS to address a problem of interest to them or in their community.
+The lessson and projects have a theme of ethics in CS  and the ethical use of psocial justice 
+
+### Would you adobt anything from the curriculum you do not teach in your class if you could? Why?
