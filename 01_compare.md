@@ -21,7 +21,7 @@ It is not student-focused and does not
 Curriculum is project-based but the projects do not seem as engaging and student-focused.
 
 ### *CS Matters.Org* 👏🏾 💥 🔥 💝
-Sample assignments
+-Sample assignments-
 Accessible
 More detailed
 Includes unplugged activities
