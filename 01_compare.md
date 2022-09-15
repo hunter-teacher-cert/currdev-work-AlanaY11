@@ -21,11 +21,11 @@ It is not student-focused and does not
 Curriculum is project-based but the projects do not seem as engaging and student-focused.
 
 ### *CS Matters.Org* 👏🏾 💥 🔥 💝
--Sample assignments-
-Accessible
-More detailed
-Includes unplugged activities
-More student-interest focused
+1. Includes sample assignments
+2. Accessible - many entry points for new CS educators and for students
+3. More detailed
+4. Includes unplugged sample activities
+5. More student-interest focused
 The projects are thematically focused on students' interest andn how to use CS to address a problem of interest to them or in their community.
 The lessson and projects have a theme of ethics in CS  and the ethical use of psocial justice 
 
