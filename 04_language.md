@@ -5,13 +5,12 @@
 
 ### What is the course? (grade level, student experience)
 
-A good fit for my students is an introductory art-based programming class. This class would be for my advanced 8th grade special education students or the advanced middle school special education students who express an interest in learning text-based programming and love art and animation. As an introductory course in text-based programming using an IDE, first I would spend a tremendous amount (at least 2 weeks) of time in teaching them the flow of using the IDE or as 
-Processing calls it the Processing Development Environment and logging into their account. 
+A good fit for my students is an introductory art-based programming class. This class would be for my advanced 8th grade special education students or the advanced middle school special education students who express an interest in learning text-based programming and love art and animation. This would be an introductory course in text-based programming using an IDE. First, I would spend a tremendous amount (at least 2 weeks) of time in teaching them the flow of using the IDE or PDE or as Processing calls it the Processing Development Environment (PDE) and logging into their account. 
 
-This will help to reduce their frustration and the tech barrier to learning this programming language. Second, I would also spend a couple of class period reviewing and practicing in our typing account number letter number combinations, advanced characters on the keyboard (i.e. (), {}, /, ; + noLoop, 20, 200, etc.) and camelCase combinations. These are the keyboard combinations that will be frequently used in the Processing Programming Language. I think this course would be great for these students because they are advanced and motivated and they demonstrate some proficiency in moving between block-based like Scratch and Tynker to text-based courses.  
+This will help to reduce their frustration and the tech barrier to learning this programming language. Second, I would also spend a couple of class periods reviewing and practicing in our typing account number-letter-number combinations, advanced characters on the keyboard (i.e. (), {}, /, ; + noLoop, 20, 200, etc.) and camelCase combinations. These are the keyboard combinations that will be frequently used in the Processing Programming Language. This course would be great for my students. They are advanced and motivated and they demonstrate some proficiency in moving between block-based like Scratch and Tynker to text-based courses.  
 
 ### What is the language? 
-Processing Programming Language.
+Processing Programming Language
 
 ### How does one write & run code in this language? 
 You write the code using the Processing Developing Environment which is with a text editor for writing the code. The program is started by pressing the run button in the text editor. You run the code in an IDE environment. Your program is called a Sketch, like an artist’s sketch, and it is stored in a Sketchbook.  
