@@ -17,12 +17,15 @@ You write the code using the Processing Developing Environment which is with a t
 
 ### Rate the complexity of the syntax? 
 
-Although Processing’s default programming language is Java other programming modes may be downloaded 
+Although Processing’s default programming language is Java other programming modes may be downloaded. Since Java is the default language, Java has a 
 
 ### Strengths
 
-The flexibility and ability to create art, computational artifacts and animated art is an asset and makes learning the program more engaging, especially for neurodiverse students that I teach. 
-How would you utlilize the strengths in the class? I would utilize this art-based feature of the program to motivate students to stick with learning the program when they get frustrated and use art samples 
+The flexibility and ability to create art, computational artifacts and animated art is an asset. It makes learning the program more engaging, especially for neurodiverse students that I teach, who love drawing and art. 
+
+### How would you utlilize the strengths in the class? 
+
+I would utilize this art-based feature of the program to motivate students. I think this art-based aspect of the language will motivate students to stick with learning the language when they get frustrated. I will also start the course with a gallery walk of some of the art work created with Processing. 
  
 ### Weaknesses: How would you mitigate the weaknesses in the class? 
 
