@@ -17,7 +17,7 @@ You write the code using the Processing Developing Environment which is with a t
 
 ### Rate the complexity of the syntax? 
 
-Although Processing’s default programming language is Java other programming modes may be downloaded. Since Java is the default language, Java has a 
+Although Processing’s default programming language is Java other programming modes may be downloaded. Since Java is the default language, Java is a moderately complex language since it has 40 reserved or keywords in the language. 
 
 ### Strengths: How would you utlilize the strengths in the class? 
 
