@@ -4,4 +4,4 @@
 ## Assignments 
 
 ### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai
-**Students will learn how an A.I. can learn through interaction**. 
+*How can an A.I. learn through interaction? *
