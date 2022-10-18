@@ -34,5 +34,5 @@ witnessing machine learning classification
 A.I. and ethics discussion
 
 ### Assignment Two: What AI Does Well and Does Not Do as Well 
-[(Adapted from Hands-on AI Projects for the Classroom K-5 ISTE Guide Unplugged Activities)](chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.iste.org%2Fwww-root%2FLibraries%2FDocuments%2520%2526%2520Files%2FArtificial%2520Intelligence%2FAIGDK5_1120.pdf)
- (
+[Adapted from Hands-on AI Projects for the Classroom K-5 ISTE Guide Unplugged Activities](chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.iste.org%2Fwww-root%2FLibraries%2FDocuments%2520%2526%2520Files%2FArtificial%2520Intelligence%2FAIGDK5_1120.pdf)
+ 
