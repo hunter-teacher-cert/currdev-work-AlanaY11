@@ -34,9 +34,19 @@ witnessing machine learning classification
 A.I. and ethics discussion
 
 ### Assignment Two: What AI Does Well and Does Not Do as Well 
-
-![AI bot cant do giphy](https://user-images.githubusercontent.com/17364335/196516784-9702eb62-be30-439b-957a-52cb1c43460f.gif)
-
-
 [Adapted from Hands-on AI Projects for the Classroom K-5 ISTE Guide Unplugged Activities] (chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.iste.org%2Fwww-root%2FLibraries%2FDocuments%2520%2526%2520Files%2FArtificial%2520Intelligence%2FAIGDK5_1120.pdf)
  
+ At the end of this project, students will be able to:
+• Identify types of tasks AI does well and explain how they know this.
+• Identify types of tasks AI does not do well and explain how they know this.
+• Understand that an AI is a computer program.
+
+Activity: Aaron Wong AI Tic-Tac-Toe
+• Activity: Bird Sounds
+• Activity: Akinator and Mystery Animal
+• Tool: Write with Transformer
+SUPPORTING RESOURCES FOR EDUCATORS
+• Activity: Intelligent Piece of Paper
+
+
+
