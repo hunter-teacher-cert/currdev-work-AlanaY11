@@ -21,16 +21,16 @@ Intro/Warm up Discussion:
 
 >Today we're going to talk to an alien A.I. Bot whose name is Zhorai. Each of you are going to go through all four modules and interact with Zhourai and witness it's learning.
 
-[Module 1: Understanding Knowledge Representation in Machines: What does Zhourai know? (10 minutes)](https://zhorai.readyai.org/intro)
+[Activity 1: Understanding Knowledge Representation in Machines: What does Zhourai know? (10 minutes)](https://zhorai.readyai.org/intro)
 understanding knowledge representation in machines
 
-[Module 2: Teaching New Knowledge to Machines: Teaching Zhourai (10 minutes)](https://zhorai.readyai.org/activity-2)
+[Activity 2: Teaching New Knowledge to Machines: Teaching Zhourai (10 minutes)](https://zhorai.readyai.org/activity-2)
 teaching new knowledge to machines
 
-[Module 3: Witnessing Machine Learning Classification (10 minutes)](https://zhorai.readyai.org/activity-3)
+[Activity 3: Witnessing Machine Learning Classification (10 minutes)](https://zhorai.readyai.org/activity-3)
 witnessing machine learning classification
 
-[Module 4: AI & Ethics Discussion (15 minutes)](https://zhorai.readyai.org/activity-4)
+[Activity 4: AI & Ethics Discussion (15 minutes)](https://zhorai.readyai.org/activity-4)
 A.I. and ethics discussion
 
 ### Assignment Two: What AI Does Well and Does Not Do as Well 
@@ -41,7 +41,7 @@ A.I. and ethics discussion
 • Identify types of tasks AI does not do well and explain how they know this.
 • Understand that an AI is a computer program.
 
-Activity: Aaron Wong AI Tic-Tac-Toe
+ [Activity: Aaron Wong AI Tic-Tac-Toe](https://www.aaronccwong.com/tic-tac-toe)
 • Activity: Bird Sounds
 • Activity: Akinator and Mystery Animal
 • Tool: Write with Transformer
