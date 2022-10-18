@@ -11,5 +11,5 @@ Intro/Warm up:
 >> - Can they learn new things? 
 >> - Can we teach them new things? 
 
->Today we're going to talk to an A.I. Bot whose name is Zhorai.
+>Today we're going to talk to an alien A.I. Bot whose name is Zhorai.
 
