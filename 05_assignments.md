@@ -7,6 +7,11 @@
 ### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai
 *How can an A.I. learn through interaction?*
 
+Students will be able to:
+>> - Interact with a conversational agent
+>> - Identify what AI can learn
+>> - Brainstorm implications of bias in AI
+
 Intro/Warm up: 
 >> - How do you think Alexa, Siri, Google, Cortana work? 
 >> - Can they learn new things? 
@@ -14,3 +19,9 @@ Intro/Warm up:
 
 >Today we're going to talk to an alien A.I. Bot whose name is Zhorai.
 
+Module 1: Understanding Knowledge Representation in Machines (10 minutes)
+Module 2: Teaching New Knowledge to Machines (10 minutes)
+Module 3: Witnessing Machine Learning Classification (10 minutes)
+Module 4: AI & Ethics Discussion (15 minutes)
+
+https://zhorai.readyai.org/intro
