@@ -4,7 +4,8 @@
 
 ## Assignments 
 
-### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai
+### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai (Lesson Adapgted from MIT's AI RAISE Curriculum RAISE https://raise.mit.edu/resources.html
+
 *How can an A.I. learn through interaction?*
 
 Students will be able to:
@@ -12,10 +13,12 @@ Students will be able to:
 >> - Identify what AI can learn
 >> - Brainstorm implications of bias in AI
 
-Intro/Warm up: 
+
+Intro/Warm up Discussion: 
 >> - How do you think Alexa, Siri, Google, Cortana work? 
 >> - Can they learn new things? 
 >> - Can we teach them new things? 
+
 
 >Today we're going to talk to an alien A.I. Bot whose name is Zhorai.
 
