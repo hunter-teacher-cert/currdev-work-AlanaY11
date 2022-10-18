@@ -6,3 +6,8 @@
 
 ### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai
 *How can an A.I. learn through interaction?*
+Intro/Warm up: 
+> How do you think Alexa, Siri, Google, Cortana work? 
+> Can they learn new things? 
+> Can we teach them new things? 
+
