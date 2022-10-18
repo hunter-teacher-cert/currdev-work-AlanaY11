@@ -27,9 +27,9 @@ understanding knowledge representation in machines
 [Module 2: Teaching New Knowledge to Machines: Teaching Zhourai (10 minutes)](https://zhorai.readyai.org/activity-2)
 teaching new knowledge to machines
 
-Module 3: [Witnessing Machine Learning Classification (10 minutes)](https://zhorai.readyai.org/activity-3)
+[Module 3: Witnessing Machine Learning Classification (10 minutes)](https://zhorai.readyai.org/activity-3)
 witnessing machine learning classification
 
-Module 4: [AI & Ethics Discussion (15 minutes)](https://zhorai.readyai.org/activity-4)
+[Module 4: AI & Ethics Discussion (15 minutes)](https://zhorai.readyai.org/activity-4)
 A.I. and ethics discussion
 
