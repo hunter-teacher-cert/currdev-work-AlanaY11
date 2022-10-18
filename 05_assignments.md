@@ -4,7 +4,7 @@
 
 ## Assignments 
 
-### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai (Lesson Adapgted from MIT's AI RAISE Curriculum RAISE https://raise.mit.edu/resources.html
+### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai [(Lesson Adapgted from MIT's AI RAISE Curriculum RAISE](https://raise.mit.edu/resources.html)
 
 *How can an A.I. learn through interaction?*
 
