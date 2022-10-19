@@ -42,7 +42,7 @@ A.I. and ethics discussion
 • Understand that an AI is a computer program.
 
 Watch the video 
-** [WHAT'S INTELLIGENT ABOUT ARTIFICIAL INTELLIGENCE?](https://www.youtube.com/watch?v=xR6j9TLZdAw)**
+**### [WHAT'S INTELLIGENT ABOUT ARTIFICIAL INTELLIGENCE?](https://www.youtube.com/watch?v=xR6j9TLZdAw)**
 
 Example of tasks A.I. can do Well
 Students work in pairs to explore the two A.I. activities. They then discuss with their partner and answer the following prompts:
