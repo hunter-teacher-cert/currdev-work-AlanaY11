@@ -43,13 +43,12 @@ A.I. and ethics discussion
 [Adapted from Hands-on AI Projects for the Classroom K-5 ISTE Guide Unplugged Activities]
 [(chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.iste.org%2Fwww-root%2FLibraries%2FDocuments%2520%2526%2520Files%2FArtificial%2520Intelligence%2FAIGDK5_1120.pdf)]
 
- 
  At the end of this project, students will be able to:
 • Identify types of tasks AI does well and explain how they know this.
 • Identify types of tasks AI does not do well and explain how they know this.
 • Understand that an AI is a computer program.
 
-**Watch the video**
+Watch the video**
 ###[WHAT'S INTELLIGENT ABOUT ARTIFICIAL INTELLIGENCE?](https://www.youtube.com/watch?v=xR6j9TLZdAw)
 
 Then Explore the Examples of A.I. Tasks in Action - what does the A.I. do well?
