@@ -45,17 +45,17 @@ Watch the video
 ### [WHAT'S INTELLIGENT ABOUT ARTIFICIAL INTELLIGENCE?](https://www.youtube.com/watch?v=xR6j9TLZdAw)**
 
 Then Explore the Examples of A.I. Tasks in Action - what does the A.I. do well?
+Point out to students that usually A.I.s can do only one specific task well.
+
+ [Activity: Aaron Wong AI Tic-Tac-Toe](https://www.aaronccwong.com/tic-tac-toe)
+ 
+ [Activity: Google Quick Draw](https://quickdraw.withgoogle.com/)
+
+
 Students work in pairs to explore the two A.I. activities. They then discuss with their partner and answer the following prompts:
 1.  what makes these activities A.I.?
 2.  what did the A.I. do well in these activities?
 3.  was the A.I. fast?
 4.  what things or tasks you think A.I. can do?
 5.  what things or tasks you think A.I. can't do?
-
- Point out to students that usually A.I.s can do only one specific task well.
- [Activity: Aaron Wong AI Tic-Tac-Toe](https://www.aaronccwong.com/tic-tac-toe)
- [Activity: Google Quick Draw](https://quickdraw.withgoogle.com/)
-
-
-
 
