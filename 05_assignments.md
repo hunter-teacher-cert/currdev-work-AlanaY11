@@ -41,9 +41,21 @@ A.I. and ethics discussion
 • Identify types of tasks AI does not do well and explain how they know this.
 • Understand that an AI is a computer program.
 
+[WHAT'S INTELLIGENT ABOUT ARTIFICIAL INTELLIGENCE?](https://www.youtube.com/watch?v=xR6j9TLZdAw)
+
+
+Example of tasks A.I. can do Well
+Students work in pairs to explore the two A.I. activities. They then discuss with their partner and answer the following prompts:
+1.  what makes these activities A.I.?
+2.  what did the A.I. do well in these activities?
+3.  was the A.I. fast?
+4.  was things or tasks you think A.I. can do?
+5.  what things or tasks you think A.I. can't do?
+6. 
+1
  [Activity: Aaron Wong AI Tic-Tac-Toe](https://www.aaronccwong.com/tic-tac-toe)
 • Activity: Bird Sounds
-• Activity: Akinator and Mystery Animal
+
 • Tool: Write with Transformer
 SUPPORTING RESOURCES FOR EDUCATORS
 • Activity: Intelligent Piece of Paper
