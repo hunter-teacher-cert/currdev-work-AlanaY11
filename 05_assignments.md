@@ -8,7 +8,7 @@ For Grades 3rd  - 6th
 ## Assignments 
 
 ### Assignment One: A.I. and Machine Learning - Training an A.I. Bot named Zhorai 
-[(Lesson Adapgted from MIT's AI RAISE Curriculum)](https://raise.mit.edu/resources.html)
+[(Lesson Adapted from MIT's AI RAISE Curriculum)](https://raise.mit.edu/resources.html)
 
 *How can an A.I. learn through interaction?*
 
@@ -44,7 +44,7 @@ A.I. and ethics discussion
 
 
 
-[Adapted from Hands-on AI Projects for the Classroom K-5 ISTE Guide Unplugged Activities] (chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.iste.org%2Fwww-root%2FLibraries%2FDocuments%2520%2526%2520Files%2FArtificial%2520Intelligence%2FAIGDK5_1120.pdf)
+[Adapted from Hands-on AI Projects for the Classroom K-5 ISTE Guide Unplugged Activities](chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.iste.org%2Fwww-root%2FLibraries%2FDocuments%2520%2526%2520Files%2FArtificial%2520Intelligence%2FAIGDK5_1120.pdf)
  
  At the end of this project, students will be able to:
 • Identify types of tasks AI does well and explain how they know this.
