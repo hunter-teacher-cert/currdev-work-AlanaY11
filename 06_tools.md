@@ -3,7 +3,7 @@ Include:
 The name of the tool. What its general purpose is. The class(es) you use it in. How you use it in class. Why you have selected that tool for that purpose?
 
 
-The two technological tools I currently use in my class are [Tynker.Com](https://www.tynker.com/) and ## [Seesaw](https://web.seesaw.me/).  Tynker is a programming tool and an IDE and Seesaw is an engagement and Learning Management tool. 
+The two technological tools I currently use in my class are [Tynker.Com](https://www.tynker.com/) and [Seesaw](https://web.seesaw.me/).  Tynker is a programming tool and an IDE and Seesaw is an engagement and Learning Management tool. 
 
 ****Tynker is a web-based platform for programming, logic, and STEM for K-12th grade with both scratch-based blocks and text-based programming (i.e. Javascript, Python, Java, Swift, and HTML) and a Minecraft lite feature that allows students to create minecraft skins, blocks, and mods and remix others minecrafts artifacts from the Tynker community.****
 
